@@ -1,1 +1,1 @@
-![Desk](desk.png)
+![Painting](PC262.png)
