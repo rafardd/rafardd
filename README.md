@@ -1,1 +1,1 @@
-![Painting](PC262.png)
+![Painting](PC262.jpg)
