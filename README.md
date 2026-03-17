@@ -1,1 +1,1 @@
-![Desk](https://github.com/rafardd/rafardd/edit/main/desk.webp)
+![Desk](https://github.com/rafardd/rafardd/edit/main/desk.png)
