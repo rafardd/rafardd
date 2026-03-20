@@ -18,6 +18,8 @@
 ## Tecnologias que conheço (Já usei):
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" style="vertical-align:top;" alt="React-native" title="React-native" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="vertical-align:top;" alt="mysql" title="MySQL" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="vertical-align:top;" alt="docker" title="Docker" />
+
 
 </br></br></br>
 
